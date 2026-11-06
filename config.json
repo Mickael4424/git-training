@@ -1,6 +1,6 @@
 {
-	"lives": 2,
+	"lives": 3,
 	"level_time": 90,
 	"ghost_speed": 1.5,
-	"player_speed": 1.0
+	"player_speed": 1.2
 }
