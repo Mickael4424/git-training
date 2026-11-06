@@ -1,2 +1,2 @@
-print("hello Pacman and Ghost")
+prnt("hello Pacman and Ghost")
 print("hello pacman")
