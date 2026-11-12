@@ -1,1 +1,1 @@
-ghosts
+GHOSTS = 4
