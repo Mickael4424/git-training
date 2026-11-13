@@ -1,0 +1,1 @@
+GHOST_ALGO = "bfs"
